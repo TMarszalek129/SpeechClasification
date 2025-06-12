@@ -16,3 +16,5 @@ dependencies:
    - sounddevice
    - tensorflow
    - keras
+   - optuna
+   - plotly
